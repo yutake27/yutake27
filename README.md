@@ -1,10 +1,28 @@
-<!--![yutake27's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutake27&count_private=True&show_icons=true) -->
+<!-- 1. GitHub usernameを変更 -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yutake27" />
+</div>
 
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutake27&count_private=True&hide=Jupyter Notebook) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yutake27&count_private=True&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutake27&count_private=True&hide=Jupyter Notebook" />
-</a>
+<!-- 2. プロフィールや連絡先を変更 -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello
+
+- 🧑‍💻 I'm a fullstack engineer.
+<br>
+
+
+<!-- 3. 好きな技術スタックに変更 -->
+<!-- ライトモート：theme=light, ダークモート：theme=dark -->
+<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,angular,python,docker,aws,gcp" />
+<br>
+
+
+<!-- 4. GitHub usernameを変更, 2箇所 -->
+<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats-ashy-tau-97.vercel.app/api?username=yutake27&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats-ashy-tau-97.vercel.app/api/top-langs/?username=yutake27&theme=vue-dark&layout=compact&hide=Jupyter Notebook" />
+</div>
